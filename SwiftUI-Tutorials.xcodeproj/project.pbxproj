@@ -15,6 +15,8 @@
 		A1102AE92434B28A00A4BA44 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1102AE72434B28A00A4BA44 /* LaunchScreen.storyboard */; };
 		A1102AF42434B28A00A4BA44 /* SwiftUI_TutorialsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1102AF32434B28A00A4BA44 /* SwiftUI_TutorialsTests.swift */; };
 		A1102AFF2434B28A00A4BA44 /* SwiftUI_TutorialsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1102AFE2434B28A00A4BA44 /* SwiftUI_TutorialsUITests.swift */; };
+		A17A5A4E2434DECE00FD2995 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17A5A4D2434DECE00FD2995 /* CircleImage.swift */; };
+		A17A5A502434E12900FD2995 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17A5A4F2434E12900FD2995 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		A1102AFA2434B28A00A4BA44 /* SwiftUI-TutorialsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-TutorialsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1102AFE2434B28A00A4BA44 /* SwiftUI_TutorialsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_TutorialsUITests.swift; sourceTree = "<group>"; };
 		A1102B002434B28A00A4BA44 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A17A5A4D2434DECE00FD2995 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		A17A5A4F2434E12900FD2995 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				A1102AE72434B28A00A4BA44 /* LaunchScreen.storyboard */,
 				A1102AEA2434B28A00A4BA44 /* Info.plist */,
 				A1102AE42434B28A00A4BA44 /* Preview Content */,
+				A17A5A4D2434DECE00FD2995 /* CircleImage.swift */,
+				A17A5A4F2434E12900FD2995 /* MapView.swift */,
 			);
 			path = "SwiftUI-Tutorials";
 			sourceTree = "<group>";
@@ -268,6 +274,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1102ADD2434B28700A4BA44 /* AppDelegate.swift in Sources */,
+				A17A5A4E2434DECE00FD2995 /* CircleImage.swift in Sources */,
+				A17A5A502434E12900FD2995 /* MapView.swift in Sources */,
 				A1102ADF2434B28700A4BA44 /* SceneDelegate.swift in Sources */,
 				A1102AE12434B28700A4BA44 /* ContentView.swift in Sources */,
 			);
