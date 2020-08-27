@@ -36,6 +36,8 @@
 		A19058D724E8A8200057CD45 /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CB24E8A8200057CD45 /* twinlake.jpg */; };
 		A19058D824E8A8200057CD45 /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CC24E8A8200057CD45 /* icybay.jpg */; };
 		A19058D924E8A8200057CD45 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CD24E8A8200057CD45 /* stmarylake.jpg */; };
+		EE8C62B982A60A1135A8147F /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8C699C6EFA7C275DC015F8 /* HexagonParameters.swift */; };
+		EE8C684B6A5A64204FDF0DB3 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8C602CDD7423357967642C /* Badge.swift */; };
 		EE8C6E1A6DE328E03B9BD968 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8C684280B69ED5AA018E96 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
@@ -92,7 +94,9 @@
 		A19058CB24E8A8200057CD45 /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
 		A19058CC24E8A8200057CD45 /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		A19058CD24E8A8200057CD45 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
+		EE8C602CDD7423357967642C /* Badge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 		EE8C684280B69ED5AA018E96 /* UserData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		EE8C699C6EFA7C275DC015F8 /* HexagonParameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +162,8 @@
 				A17A5A4F2434E12900FD2995 /* MapView.swift */,
 				A19058B824E89D150057CD45 /* LandmarkRow.swift */,
 				A19058BA24E89ED90057CD45 /* LandmarkList.swift */,
+				EE8C602CDD7423357967642C /* Badge.swift */,
+				EE8C699C6EFA7C275DC015F8 /* HexagonParameters.swift */,
 			);
 			path = "SwiftUI-Tutorials";
 			sourceTree = "<group>";
@@ -374,6 +380,8 @@
 				A19058BD24E8A4770057CD45 /* Data.swift in Sources */,
 				A19058B424E89C100057CD45 /* Landmark.swift in Sources */,
 				EE8C6E1A6DE328E03B9BD968 /* UserData.swift in Sources */,
+				EE8C684B6A5A64204FDF0DB3 /* Badge.swift in Sources */,
+				EE8C62B982A60A1135A8147F /* HexagonParameters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
