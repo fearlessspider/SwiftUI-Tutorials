@@ -36,6 +36,7 @@
 		A19058D724E8A8200057CD45 /* twinlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CB24E8A8200057CD45 /* twinlake.jpg */; };
 		A19058D824E8A8200057CD45 /* icybay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CC24E8A8200057CD45 /* icybay.jpg */; };
 		A19058D924E8A8200057CD45 /* stmarylake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A19058CD24E8A8200057CD45 /* stmarylake.jpg */; };
+		EE8C6E1A6DE328E03B9BD968 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE8C684280B69ED5AA018E96 /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		A19058CB24E8A8200057CD45 /* twinlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twinlake.jpg; sourceTree = "<group>"; };
 		A19058CC24E8A8200057CD45 /* icybay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = icybay.jpg; sourceTree = "<group>"; };
 		A19058CD24E8A8200057CD45 /* stmarylake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stmarylake.jpg; sourceTree = "<group>"; };
+		EE8C684280B69ED5AA018E96 /* UserData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 			children = (
 				A19058B324E89C0F0057CD45 /* Landmark.swift */,
 				A19058BC24E8A4770057CD45 /* Data.swift */,
+				EE8C684280B69ED5AA018E96 /* UserData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -370,6 +373,7 @@
 				A19058B924E89D150057CD45 /* LandmarkRow.swift in Sources */,
 				A19058BD24E8A4770057CD45 /* Data.swift in Sources */,
 				A19058B424E89C100057CD45 /* Landmark.swift in Sources */,
+				EE8C6E1A6DE328E03B9BD968 /* UserData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
